@@ -1,0 +1,22 @@
+.button {
+    padding: 20px;
+    margin: 0px 3px;
+    border: 1.5px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color:red;
+}
+.row {
+    margin: 5px 0px;
+}
+
+.row input {
+    margin: 5px;
+    font-size: 20px;
+    padding: 10px 0px;
+    border: 1.5px solid black;
+    border-radius: 5px;
+}
